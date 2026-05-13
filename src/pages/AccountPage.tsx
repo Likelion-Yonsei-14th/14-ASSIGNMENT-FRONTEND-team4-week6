@@ -1,5 +1,4 @@
-import React from "react";
-import { BackIcon, BellIcon, UserIcon, HomeIcon, BottomNav } from "../components/shared";
+import { BackIcon, BellIcon, UserIcon, BottomNav } from "../components/shared";
 
 const MENU_ITEMS = [
   "프로필 관리",
